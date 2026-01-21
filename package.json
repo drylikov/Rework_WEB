@@ -1,0 +1,19 @@
+
+{
+  "name": "rework",
+  "version": "0.0.2",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.0.0rc5",
+    "rework": "0.6.0",
+    "bytes": "0.1.0",
+    "jade": "0.27.6"
+  },
+  "subdomain": "rework",
+  "engines": {
+    "node": "0.8.x"
+  }
+}
