@@ -9,4 +9,3 @@
   Specify the supported browser vendors:
 
     $ curl -F style=@style.css http://rework.jit.su?vendors=moz,webkit
-
